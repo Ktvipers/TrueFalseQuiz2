@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">True False Quiz</string>
+    <string name="text_true">True</string>
+    <string name="text_false">False</string>
+    <string name="Poop">Poop is brown.</string>
+    <string name="Dogs">Dogs eat cats</string>
+    <string name="Water">The water is blue</string>
+    <string name="Ice_cream">Ice cream is warm</string>
+</resources>
